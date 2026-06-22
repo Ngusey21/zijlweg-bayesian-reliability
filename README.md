@@ -6,7 +6,7 @@
 
 **Supervisors:** Dr. Eva Lantsoght, Dr. Rolando Chacón
 
-**Year:** June 22, 2026
+**Year:** 2026
 
 **Status:** Final Dissertation Submission, 2026
 
